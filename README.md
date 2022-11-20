@@ -16,7 +16,7 @@ The purpose of this project is to predict whether the transaction is normal or f
  
 
 ## Project Description
-This is a binary classification problem, where the dataset consists of imablanced target class. So there are 2 notebooks uploaded to repo where one of the notbooks includes predicitve model results with imbalanced dataset and other with balanced dataset(using ADASYN). The aim is to correctly classify the transactions respectively. 
+This is a binary classification problem, where the dataset consists of imbalanced target class. So there are 2 notebooks uploaded to repo where one of the notebooks includes predictive model results with imbalanced dataset and other with balanced dataset(using ADASYN). The aim is to correctly classify the transactions respectively. 
 
 ## Note:-
 We will use ADASYN after train test split as we need to make sure there is no leakage of data which will lead to overfitting.
